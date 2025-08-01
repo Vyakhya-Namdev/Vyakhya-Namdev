@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vyakhya-Namdev/your-repo-name/main/path-to-wave.png" width="100%" />
-</p>
-
 <h1 align="center">👋 Hello, I'm <span style="color:#8A2BE2">Vyakhya Namdev</span></h1>
 <h3 align="center" style="color: #00CED1;">👩‍💻 Software Developer | 💡 AI/ML Explorer | 📊 Data Enthusiast</h3>
 
