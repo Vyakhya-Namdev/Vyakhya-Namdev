@@ -45,19 +45,44 @@ Currently, I’m diving into the field of Data Analytics — learning how to man
 </p>
 ---
 
-## 🛠️ Skills
+##🛠️ Skills
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
