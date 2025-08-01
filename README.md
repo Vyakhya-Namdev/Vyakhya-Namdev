@@ -1,19 +1,27 @@
 <h1 align="center">👋 Hello, I'm Vyakhya Namdev</h1>
-<h3 align="center" style="color: purple;">Frontend Developer | AI/ML Enthusiast | Tech Explorer</h3>
+<h3 align="center" style="color: purple;">Software Developer | AI/ML Enthusiast | Tech Explorer</h3>
 
-<p align="center">I am a passionate Computer Science student from India 🇮🇳</p>
+<p align="center">I am a passionate Computer Science student from Uttar Pradesh</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vyakhya-Namdev&label=Profile%20views&color=0e75b6&style=flat" alt="Vyakhya-Namdev" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hello! I’m passionate about web development and AI, with a strong foundation in HTML, CSS, JavaScript, and Java. I enjoy creating smart, user-friendly applications that merge frontend design with AI-driven functionality. I take pride in turning ideas into interactive, real-world projects. Whether it's deepfake detection, speech recognition, or augmented reality-based apps, I’m always exploring new challenges that bridge design and intelligence.
+Hi there! I'm Vyakhya Namdev, a dedicated and enthusiastic coder who finds joy in turning complex problems into clean, efficient code. I code daily to sharpen my logic and stay consistent in improving my skills.
 
-Alongside my frontend skills, I’ve worked with machine learning tools like Pandas, Scikit-learn, and PyTorch. I’ve also built end-to-end systems using the MERN stack, and explored domains like AR and voice assistance. I'm still growing every day and love sharing this journey with the developer community—so if you’re here for inspiration or collaboration, let’s connect!
+My journey started with frontend development — working with HTML, CSS, JavaScript — and gradually expanded into backend tools and programming languages like Java. I enjoy building user-friendly interfaces and interactive experiences that blend functionality with creativity.
+
+Lately, I’ve been exploring the field of data analytics. It fascinates me how raw data can uncover powerful insights when processed and visualized correctly. I'm actively learning tools and libraries like Pandas, NumPy, and others to strengthen my understanding.
+
+Machine learning and AI also intrigue me. I’ve experimented with popular libraries like Scikit-learn and PyTorch, applying them in small projects to see how intelligent systems work.
+
+I believe in consistency over intensity. Whether it’s solving problems on coding platforms or collaborating on GitHub, I aim to learn something new every single day. I’m always up for learning, growing, and building meaningful tech solutions — one line of code at a time.
+
+Let’s connect, collaborate, and code something amazing!
 
 ---
 
@@ -64,9 +72,8 @@ Alongside my frontend skills, I’ve worked with machine learning tools like Pan
 
 <p align="center">
   <a href="https://github.com/Vyakhya-Namdev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vyakhyanamdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:namdevyakhya2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
