@@ -1,22 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Vyakhya-Namdev" target="_blank" style="
-    display: inline-block;
-    padding: 12px 24px;
-    color: white;
-    background: black;
-    border: 2px solid transparent;
-    border-image: linear-gradient(90deg, #ff0080, #7928ca, #2afadf);
-    border-image-slice: 1;
-    font-weight: bold;
-    font-family: sans-serif;
-    text-decoration: none;
-    position: relative;
-    overflow: hidden;
-    transition: all 0.3s ease-in-out;
-  ">
-  </a>
+  <img src="https://raw.githubusercontent.com/Vyakhya-Namdev/your-repo-name/main/path-to-wave.png" width="100%" />
 </p>
-
 
 <h1 align="center">👋 Hello, I'm <span style="color:#8A2BE2">Vyakhya Namdev</span></h1>
 <h3 align="center" style="color: #00CED1;">👩‍💻 Software Developer | 💡 AI/ML Explorer | 📊 Data Enthusiast</h3>
