@@ -11,17 +11,15 @@
 
 ## 🚀 About Me
 
-Hi there! I'm Vyakhya Namdev, a dedicated and enthusiastic coder who finds joy in turning complex problems into clean, efficient code. I code daily to sharpen my logic and stay consistent in improving my skills.
+<p align="center">Hello! I'm Vyakhya Namdev, a dedicated and enthusiastic coder who finds joy in turning complex problems into clean, efficient code. I code daily to sharpen my logic and stay consistent in improving my skills.
 
-My journey started with frontend development — working with HTML, CSS, JavaScript — and gradually expanded into backend tools and programming languages like Java. I enjoy building user-friendly interfaces and interactive experiences that blend functionality with creativity.
+My journey started with frontend development — working with HTML, CSS, JavaScript — and gradually expanded into backend tools and programming languages like Java. I enjoy building user-friendly interfaces and interactive experiences that blend functionality with creativity. Additionaly, I’ve experimented with popular libraries like Scikit-learn and PyTorch in AI/ML world, applying them in small projects to see how intelligent systems work.
 
 Lately, I’ve been exploring the field of data analytics. It fascinates me how raw data can uncover powerful insights when processed and visualized correctly. I'm actively learning tools and libraries like Pandas, NumPy, and others to strengthen my understanding.
 
-Machine learning and AI also intrigue me. I’ve experimented with popular libraries like Scikit-learn and PyTorch, applying them in small projects to see how intelligent systems work.
-
 I believe in consistency over intensity. Whether it’s solving problems on coding platforms or collaborating on GitHub, I aim to learn something new every single day. I’m always up for learning, growing, and building meaningful tech solutions — one line of code at a time.
 
-Let’s connect, collaborate, and code something amazing!
+Let’s connect, collaborate, and code something amazing!</p>
 
 ---
 
@@ -49,11 +47,11 @@ Let’s connect, collaborate, and code something amazing!
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vyakhya-Namdev&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vyakhya-Namdev&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vyakhya-Namdev&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vyakhya-Namdev&theme=github-compact" />
 </p>
 
 ---
