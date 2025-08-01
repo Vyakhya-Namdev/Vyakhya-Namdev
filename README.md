@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 <p align="center">
 I’m a curious, self-driven coder who codes daily to strengthen logic and build creative solutions. I started my journey in frontend development and gradually moved into backend systems and AI/ML technologies.
@@ -21,17 +21,9 @@ Currently, I’m diving into the field of Data Analytics — learning how to man
 🚀 Let's connect, collaborate, and create something meaningful together.
 </p>
 
----
-
-## 🔥 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vyakhya-Namdev&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyakhya-Namdev&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vyakhya-Namdev&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -45,40 +37,37 @@ Currently, I’m diving into the field of Data Analytics — learning how to man
 </p>
 ---
 
-##🛠️ Skills
-
-<h2 align="center">🛠️ Skills</h2>
+## 🛠️ Skills
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" alt="HTML"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" alt="CSS"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank">
+  <a href="https://isocpp.org/" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/>
   </a>
-  <a href="https://www.java.com/" target="_blank">
+  <a href="https://www.java.com/" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" alt="MySQL"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" alt="Tailwind CSS"/>
   </a>
 </p>
-
 
 
 ---
