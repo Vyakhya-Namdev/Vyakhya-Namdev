@@ -18,7 +18,7 @@ Currently, I’m diving into the field of Data Analytics — learning how to man
 </p>
 
 <p align="center">
-🚀 Let's connect, collaborate, and create something meaningful together.
+🚀 Let's connect, collaborate, and create something meaningful together!
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Currently, I’m diving into the field of Data Analytics — learning how to man
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vyakhya-Namdev&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vyakhya-Namdev&theme=react-dark" />
 </p>
 
 <p align="center">
