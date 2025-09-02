@@ -52,9 +52,6 @@ Currently, I’m diving into the field of Data Analytics — learning how to man
   <a href="https://www.python.org/" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/>
-  </a>
   <a href="https://www.java.com/" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
   </a>
